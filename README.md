@@ -1,6 +1,7 @@
 # FlamesNS-EMU
 A Nintendo Switch Emulator for iOS and M1
 
+[Testing on Intel Windows processers]
 
 
 * Features: [PLANNED]
